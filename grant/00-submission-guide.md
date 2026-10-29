@@ -39,22 +39,23 @@ The public instructions ask for the principal investigator and, when applicable,
 
 **CONFIRM** with the portal help desk and with CHLA Sponsored Projects before you submit. If the form requires a faculty principal investigator, move Dr. Park to that role and list Dr. Vemula as the scientist leading the project. Do not submit under a role the institution will not accept.
 
-## What is already supported by the public record
+## Where the science comes from
 
 - Applicant: Chandra Kaladhar Vemula, PhD, Children’s Hospital Los Angeles (cvemula@chla.usc.edu).
 - Mentor: JinSeok Park, PhD, Cancer and Blood Disease Institute, Children’s Hospital Los Angeles.
-- Published finding: PAX3-FOXO1 increases NOS1 and nitric oxide, suppresses TGFβ signaling, and reduces cell–extracellular-matrix interaction in fusion-positive rhabdomyosarcoma (Chronopoulos et al., *J Cell Biol*, 2025). Rh41 PAX3-FOXO1-knockdown cells were part of that work.
-- Preliminary finding, reported as an AACR 2026 abstract: in a three-dimensional spheroid model, follower cells show higher PAX3-FOXO1, more proliferation, and higher WEE1 activity; PAX3-FOXO1 knockdown is negatively enriched for G1/S and DNA-replication gene sets; pharmacologic WEE1 inhibition slowed growth and invasion. The abstract does not report doses, sample sizes, or the compound name.
-- Clinical context: adavosertib (AZD1775) plus irinotecan did not meet the efficacy bar in the rhabdomyosarcoma cohort of ADVL1312 (Cole et al., *Cancer*, 2023), despite preclinical activity (Stewart et al., *Cancer Cell*, 2018; Kolb et al., *Pediatr Blood Cancer*, 2020).
+- This draft follows the Summer’s Way fellowship project: PAX3-FOXO1, SPOCK3, FGF2–ERK signaling, cortical tension, extravasation, and surfen.
+- Published laboratory finding, used only as background: PAX3-FOXO1 increases NOS1 and nitric oxide, suppresses TGFβ signaling, and reduces cell–matrix interaction (Chronopoulos et al., *J Cell Biol*, 2025). That paper does not report SPOCK3.
+- The SPOCK3 preliminary results are taken from the fellowship text you provided. They are not published in that paper. Confirm each one against your current figures before you paste.
 
 ## What this draft does not invent
 
-No concentrations, fold-changes, p-values, patient numbers, salary, fringe, or indirect-cost rate. No claim that RNA-seq or ChIP-seq is already public. No claim of access to patient specimens or mice. The budget is a planning sketch until Sponsored Projects prices it.
+No concentrations, fold-changes, p-values, patient numbers, salary, fringe, or indirect-cost rate. No claim that SPOCK3 knockout, expansion microscopy, or atomic force measurements are already finished. No patient specimens and no mice. The budget is a planning sketch until Sponsored Projects prices it.
 
 ## Before you paste
 
 1. Replace every **CONFIRM** line.
-2. Read the aims against the latest unpublished figures. If a sentence in the 2026 abstract is no longer how you interpret the data, change the aim. The abstract says both that follower cells with higher PAX3-FOXO1 proliferate more and that PAX3-FOXO1 “regulates cell cycle progression by S-phase arrest.” Aim 1 treats that tension as the question, not as a settled mechanism.
-3. Ask Dr. Park for the letter in [11-mentor-letter-request.md](11-mentor-letter-request.md) and for a five-page NIH biosketch.
-4. Have Sponsored Projects approve the budget and the indirect-cost rate for this sponsor.
-5. Select the funding-priority choice in the portal that is closest to therapeutic targets in fusion-positive rhabdomyosarcoma. The priority list is not published on the open site. If none match, email grants@rhabdocoalition.org and ask which category they want.
+2. Read the preliminary-data paragraph against the figures you are willing to show. Delete any sentence the current data do not support. The fellowship text says cortical tension “appears” diminished. The draft keeps that caution.
+3. In Other Funding, state whether the Summer’s Way fellowship is pending, funded, or not funded. Summer’s Way is a Coalition member, so the overlap has to be explicit.
+4. Ask Dr. Park for the letter in [11-mentor-letter-request.md](11-mentor-letter-request.md) and for a five-page NIH biosketch.
+5. Have Sponsored Projects approve the budget and the indirect-cost rate for this sponsor.
+6. Select the funding-priority choice in the portal that is closest to new therapeutic targets for fusion-positive rhabdomyosarcoma. The priority list is not published on the open site. If none match, email grants@rhabdocoalition.org and ask which category they want.

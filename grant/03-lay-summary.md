@@ -1,11 +1,9 @@
 # Project overview and lay summary
 
-Limit: 250 words. Draft: 232 words.
+Limit: 250 words. Paste the paragraph below.
 
-Paste the paragraph below.
+Rhabdomyosarcoma is the most common soft-tissue cancer in children. An aggressive form, called fusion-positive rhabdomyosarcoma, carries an abnormal joined gene, PAX3-FOXO1. This gene helps the cancer grow and spread, and there is still no drug that turns the gene itself off.
 
-Fusion-positive rhabdomyosarcoma is an aggressive muscle cancer of children and young adults. Many of these tumors carry an abnormal joined gene, PAX3-FOXO1. This form of the cancer is more likely to spread, but the medicines used today are largely the same ones used for tumors that do not carry the fusion.
+This project looks at helper molecules on the cell surface called heparan sulfate proteoglycans. They catch growth signals, including one named FGF2, and pass those signals along so the cancer cell keeps multiplying. They may also stiffen the cell’s outer layer. A stiffer cell may be better at squeezing through tight spaces and leaving the tumor, a step called extravasation.
 
-Our laboratory showed that PAX3-FOXO1 changes how tumor cells hold onto the structure around them. Cells with the fusion cling less tightly. That may help them move and survive away from the original tumor. We are now studying how these tumors invade as groups. In a three-dimensional laboratory model, some cells lead the invasion and the cells just behind them divide rapidly. Those “follower” cells have more PAX3-FOXO1 and more activity of a growth-control protein called WEE1. Blocking WEE1 slowed both growth and invasion in this model.
-
-A WEE1-blocking drug, given with chemotherapy, has already been tested in children with relapsed rhabdomyosarcoma. It did not shrink tumors often enough to move forward. This project asks why. We will learn which cells inside the tumor depend on WEE1, whether that dependence follows the amount of PAX3-FOXO1, and whether blocking WEE1 stops the group invasion that helps these tumors spread. Families will get a plain-language update each year. The result we owe them is a clear map of when a WEE1 drug is worth using in fusion-positive rhabdomyosarcoma, and when it is not.
+In early experiments, turning down PAX3-FOXO1 lowered one of these helper molecules, SPOCK3. The cells caught less FGF2, grew less well, became less stiff, and were less able to pass through narrow openings. We will now remove SPOCK3 directly and use very high-resolution microscopy to see whether growth-signal capture and cell stiffness depend on it. We will also test surfen, a compound that blocks heparan sulfate proteoglycans. The goal is a clear answer for families: whether this pathway is a realistic place to slow the growth and spread of fusion-positive rhabdomyosarcoma.

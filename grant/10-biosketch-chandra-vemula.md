@@ -23,9 +23,9 @@ EDUCATION/TRAINING
 
 ## A. Personal statement
 
-I am a postdoctoral scientist at Children’s Hospital Los Angeles studying why fusion-positive rhabdomyosarcoma invades. My work is on the PAX3-FOXO1 fusion. With the Park laboratory I contributed to the study showing that PAX3-FOXO1 increases NOS1 and nitric oxide, suppresses TGFβ signaling, and reduces cell–extracellular-matrix interaction (*J Cell Biol*, 2025). I am first author on the AACR abstracts that preceded that paper’s matrix findings (2024) and that describe a WEE1-high follower compartment in three-dimensional invasion (2026).
+I am a postdoctoral scientist at Children’s Hospital Los Angeles studying how the PAX3-FOXO1 fusion drives fusion-positive rhabdomyosarcoma. With the Park laboratory I contributed to the study showing that PAX3-FOXO1 increases NOS1 and nitric oxide, suppresses TGFβ signaling, and reduces cell–extracellular-matrix interaction (*J Cell Biol*, 2025). I am first author on the AACR abstracts that reported the matrix findings (2024) and a separate WEE1 observation in three-dimensional invasion (2026).
 
-This Rhabdo Coalition proposal is the next experiment from that second line of work. I will map the follower compartment and test whether adavosertib, the WEE1 inhibitor already studied in a negative pediatric rhabdomyosarcoma trial, stops collective invasion only when PAX3-FOXO1 is present. I will do the spheroid culture, imaging, knockdown, drug treatments, and analysis. Dr. JinSeok Park is the mentor and will oversee design and interpretation. The award would provide the dedicated effort and the WEE1-specific reagents. **[Add one sentence on any technique, award, or prior fellowship that is true and relevant. Do not add one that is not.]**
+This Rhabdo Coalition proposal is a different project. Preliminary experiments indicate that PAX3-FOXO1 maintains the heparan sulfate proteoglycan SPOCK3, and that loss of the fusion weakens FGF2 capture, ERK signaling, proliferation, cortical stiffness, and passage through narrow pores. I will make the SPOCK3 knockout and carry out the expansion-microscopy, biochemical, atomic-force, and transwell experiments. Dr. JinSeok Park is the mentor and will oversee design and interpretation. The award would provide the dedicated effort and the SPOCK3-specific reagents. **[Add one sentence on any technique, award, or prior fellowship that is true and relevant. Do not add one that is not.]**
 
 ## B. Positions, scientific appointments, and honors
 
@@ -46,7 +46,7 @@ Fusion-positive rhabdomyosarcoma engages the extracellular matrix less than fusi
 
 ### 2. PAX3-FOXO1, WEE1, and collective invasion
 
-In a spheroid model of fusion-positive invasion, follower cells behind the invasive front have higher PAX3-FOXO1, higher proliferation, and higher WEE1 activity. Knockdown of the fusion is negatively enriched for G1/S and DNA-replication programs. Blocking WEE1 slows growth and invasion in this model. These data are preliminary and are published only as an AACR abstract. They are the basis of the proposed aims.
+In a spheroid model of fusion-positive invasion, follower cells behind the invasive front have higher PAX3-FOXO1, higher proliferation, and higher WEE1 activity. Knockdown of the fusion is negatively enriched for G1/S and DNA-replication programs. Blocking WEE1 slows growth and invasion in this model. These data are preliminary and are published only as an AACR abstract. They are a separate line of work from the SPOCK3 project in this application.
 
 - Vemula CK, Park J. Cell cycle regulation by PAX3-FOXO1 via WEE1 kinase in fusion-positive rhabdomyosarcoma. *Cancer Res*. 2026;86(7 Suppl):Abstract 4935.
 

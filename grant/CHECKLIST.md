@@ -6,14 +6,14 @@ Word counts below were run on the paste-ready paragraphs only. Re-count after yo
 
 | Section | Limit | Draft length | File |
 | --- | --- | --- | --- |
-| Rhabdomyosarcoma relevance | 150 words | 134 | 02 |
-| Data sharing | 200 words | 161 | 02 |
-| Funding leverage | 150 words | 121 | 02 |
-| Lay summary | 250 words | 232 | 03 |
-| Abstract and specific aims | ½ page | 292 words | 04 |
-| Significance | 1 page | 480 words | 05 |
-| Approach | 2 pages | 947 words | 06 |
-| References | 30 | 12 | 07 |
+| Rhabdomyosarcoma relevance | 150 words | 135 | 02 |
+| Data sharing | 200 words | 130 | 02 |
+| Funding leverage | 150 words | 109 | 02 |
+| Lay summary | 250 words | 192 | 03 |
+| Abstract and specific aims | ½ page | 252 words | 04 |
+| Significance | 1 page | 467 words | 05 |
+| Approach | 2 pages | 890 words | 06 |
+| References | 30 | 9 | 07 |
 | Budget | 1 page | Planning sketch | 08 |
 
 ## Portal
@@ -27,16 +27,16 @@ Word counts below were run on the paste-ready paragraphs only. Re-count after yo
 - [ ] Upload human-subjects and vertebrate-animal statements. For this scope, both are “not applicable,” with the explanation in file 09.
 - [ ] Upload Dr. Vemula’s NIH biosketch after every bracket is filled.
 - [ ] Upload Dr. Park’s NIH biosketch and signed letter.
-- [ ] Upload a Han letter only if he has a defined analysis role.
+- [ ] Upload a letter from the atomic force microscopy operator only if that person is outside the Park laboratory.
 - [ ] Save as final, download the PDF, and keep the confirmation.
 
 ## Scientific checks before paste
 
-- [ ] The WEE1 compound named in Aim 2 matches the compound already used. If the preliminary work used a different inhibitor, say so.
-- [ ] The S-phase versus follower-proliferation point is still described as unresolved, unless newer data have resolved it. If they have, rewrite Aim 1 so it does not claim the question is open.
+- [ ] Every preliminary SPOCK3 sentence matches a figure you can defend. Cortical tension stays worded as “appears” unless a completed measurement says otherwise.
+- [ ] The Summer’s Way fellowship status is stated in Other Funding: pending, funded, or not funded. Overlapping costs are removed.
 - [ ] No sentence states a fold-change, p-value, concentration, or sample size that is not in a figure you are willing to defend.
-- [ ] ChIP-seq is not described as complete unless you are ready to show it.
-- [ ] Other funding is cleared against active and pending awards. Overlap is disclosed.
+- [ ] SPOCK3 knockout and the atomic force measurements are described as proposed work, not as finished results.
+- [ ] Other funding is cleared against active and pending awards.
 - [ ] Salary, fringe, effort, and indirect-cost rate came from CHLA, and the uploaded budget contains no ESTIMATE labels.
 
 ## After you submit

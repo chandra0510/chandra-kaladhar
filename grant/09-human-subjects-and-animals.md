@@ -4,10 +4,10 @@ Each section is limited to one-half page. The draft below is the accurate answer
 
 ## Human subjects
 
-This project uses established rhabdomyosarcoma cell lines and reagents already in the laboratory, including Rh41 and a characterized PAX3-FOXO1-knockdown derivative. It does not enroll patients, does not use fresh or archived human specimens, and does not use data that can identify a person. An IRB protocol is not required for the aims as written. No IRB number is claimed.
+This project uses established rhabdomyosarcoma cell lines and reagents already in the laboratory, including a characterized PAX3-FOXO1-knockdown derivative. It does not enroll patients, does not use fresh or archived human specimens, and does not use data that can identify a person. An IRB protocol is not required for the aims as written. No IRB number is claimed.
 
 ## Vertebrate animals
 
-This project does not use mice or other vertebrate animals. Invasion is measured in collagen-embedded spheroids. An IACUC protocol is not required for the aims as written. No IACUC number is claimed.
+This project does not use mice or other vertebrate animals. Growth and pore passage are measured in cultured cells, including expansion microscopy, biochemical assays, atomic force microscopy, and transwell inserts. An IACUC protocol is not required for the aims as written. No IACUC number is claimed.
 
-Xenograft tests of adavosertib are a possible later study. They are outside this budget and would need an approved IACUC protocol before any animal work began.
+Animal tests of a heparan sulfate pathway would be a later study. They are outside this budget and would need an approved IACUC protocol before any animal work began.

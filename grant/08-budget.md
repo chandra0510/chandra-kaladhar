@@ -26,8 +26,8 @@ Working math at the planning rate: indirect cost is 10% of direct costs, and dir
 | Category | Year 1 | Year 2 | Notes |
 | --- | ---: | ---: | --- |
 | Personnel salary + fringe, 25% effort | $28,000 | $28,000 | ESTIMATE. Dr. Vemula’s effort on Aims 1 and 2. Remaining salary stays on the mentor’s existing support. **CONFIRM** there is no double charging. |
-| Supplies | $12,455 | $12,455 | Collagen I, spheroid media and plastics, antibodies (PAX3-FOXO1, phospho-CDK1, a proliferation marker), the live-cell dyes or reporter reagents already in the assay, and adavosertib. |
-| Imaging and small-core use | $3,000 | $3,000 | Confocal time beyond what the laboratory already covers. Cut this line if instrument access is already paid. |
+| Supplies | $12,455 | $12,455 | CRISPR reagents for the SPOCK3 knockout, expansion-microscopy gel reagents, FGF2, heparan sulfate and phospho-ERK antibodies, CCK-8 kits, transwell inserts, and surfen. |
+| Imaging and small-core use | $3,000 | $3,000 | Expansion-microscopy imaging and atomic force microscopy time beyond what the laboratory already covers. Cut this line if that access is already paid. |
 | Travel | $2,000 | $2,000 | One trip each year to present the work to Rhabdo Coalition scientific or family audiences, or to a pediatric sarcoma meeting. |
 | Direct costs | $45,455 | $45,455 | |
 | Indirect costs at 10% of direct | $4,545 | $4,545 | **CONFIRM rate.** |
@@ -38,9 +38,9 @@ No equipment at or above $5,000. No tuition. No patient-care costs. No animal co
 
 ## Justification
 
-Dr. Vemula will design the experiments, grow and image the spheroids, run the knockdown and drug treatments, analyze the images, deposit the data, and write the plain-language update. Twenty-five percent effort is enough for this scope only because the models, microscope access, and base laboratory support already exist. If Sponsored Projects or the mentor cannot certify the other 75 percent from non-overlapping sources, raise the personnel line and shrink the request’s scope rather than overstating effort.
+Dr. Vemula will design the experiments, make and validate the SPOCK3 knockout, run the expansion-microscopy, proliferation, ERK, surfen, atomic-force, and transwell assays, analyze the data, deposit the protocols, and write the plain-language update. Twenty-five percent effort is enough for this scope only because the fusion-positive models and base laboratory support already exist. If Sponsored Projects or the mentor cannot certify the other 75 percent from non-overlapping sources, raise the personnel line and shrink the request’s scope rather than overstating effort.
 
-Supply costs are the consumables that are specific to this project: collagen and spheroid culture for the invasion assay, the antibodies and reporter reagents that distinguish the follower compartment, and adavosertib for Aim 2. General laboratory media and plasticware already covered by the mentor should not be charged here.
+Supply costs are the consumables specific to this project: CRISPR reagents, expansion-microscopy materials, FGF2 and antibodies, CCK-8 kits, transwell inserts, and surfen. General laboratory media and plasticware already covered by the mentor should not be charged here. Atomic force microscopy is a core fee, not a new instrument.
 
 Travel is for reporting the work back to the Coalition and its scientific community, which is part of the sharing plan. It is the first line to cut if the award is reduced to the $40,000 minimum.
 
@@ -51,9 +51,9 @@ Indirect costs are listed separately because the portal requires it. The rate is
 Use this only if you are awarded partial funding or if you decide to request one year. Direct costs about $36,364 and indirect costs about $3,636 at the same 10% planning rate.
 
 - Personnel, 20% effort for 12 months: $22,000 ESTIMATE
-- Supplies sufficient for Aim 1 and the adavosertib series in two fusion-positive lines, plus WEE1 knockdown: $14,364 ESTIMATE
-- No travel line
-- Stops before the PAX3-FOXO1-level and matrix-state comparison
+- Supplies sufficient for Aim 1: SPOCK3 knockout, expansion microscopy, FGF2 and ERK assays, proliferation assays, and surfen: $14,364 ESTIMATE
+- No travel line and no atomic force microscopy campaign
+- Stops before the cortical-tension and narrow-pore assays in Aim 2
 
 ## What you still have to do
 
