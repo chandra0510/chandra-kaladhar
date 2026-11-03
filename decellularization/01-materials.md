@@ -50,7 +50,29 @@ Dissolve 4 g sodium deoxycholate in sterile water to 100 mL. Prepare close to us
 
 ### DNase I working solution
 
-Prepare **2000 kU DNase I in 1 M NaCl** in a final volume matching the bath (e.g., 40 mL). **CONFIRM** the vendor’s definition of kU vs U and convert so the bath matches published activity as closely as possible. Make immediately before the enzymatic step; keep on ice until applied.
+**Two different concentrations are in this recipe — do not confuse them:**
+
+| What | Concentration |
+| --- | --- |
+| **NaCl (carrier / solvent)** | **1 M** (58.44 g/L) |
+| **DNase I (enzyme)** | **~50 Kunitz units/mL** |
+
+Padua DET wording (“**2000 kU** DNase I in 1 M NaCl”, **40 mL** bath) means:
+
+- Dissolve **2000 Kunitz units** of DNase I **total** into **40 mL of 1 M NaCl**
+- That is **2000 U ÷ 40 mL = 50 Kunitz U/mL**
+- Here **kU = Kunitz units** (Sigma unit definition), **not** “kilo-units × 1000” beyond that
+
+#### Practical prep (40 mL bath)
+
+1. Make **1 M NaCl**: 2.34 g NaCl → dissolve to 40 mL with sterile water (or 58.44 g/L and measure 40 mL).
+2. Add **2000 Kunitz units** DNase I:
+   - Easiest: one Sigma **D4263**-style vial standardized to **2000 Kunitz units**, reconstituted into the 40 mL of 1 M NaCl, **or**
+   - From powder: units needed ÷ (Kunitz U per mg on the **lot COA**). Example: if the bottle is ~2000 Kunitz U/mg protein, use ~**1 mg** protein worth per 40 mL (~**0.025 mg/mL**).
+3. Mix gently on ice; use **immediately** (3 h incubation at room temperature with agitation).
+4. Scale linearly: e.g. 20 mL bath → **1000 Kunitz units** (still **50 U/mL** in **1 M NaCl**).
+
+**CONFIRM** your bottle’s unit system (Kunitz vs other). Other papers sometimes use **~40 U/mL** DNase — close to this 50 U/mL target. Do not report DNase as “1 M”; 1 M is only the NaCl.
 
 ### Post-DET antibiotic PBS
 
