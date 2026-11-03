@@ -48,11 +48,57 @@ Lyophilization is another unfixed long-term option used in some ECM scaffold lab
 
 ## Sterilization before cell culture
 
-DET and antibiotic PBS reduce bioburden but are not a validated sterile process. Before reseeding:
+DET / Triton–NH₄OH and antibiotic PBS reduce bioburden but are not a validated sterile process. Before reseeding:
 
 1. Handle only in a BSC after the final multi-day rinse.
-2. Optional extra step: brief antibiotic cocktail or sterile PBS washes only — avoid harsh sterilants that fix or denature the matrix.
-3. **CONFIRM** whether the lab will use peracetic acid, UV, or antibiotic-only handling; document the choice. Do not autoclave proteinaceous scaffolds.
+2. Optional: **peracetic acid (PAA)** terminal sterilization (recommended placement below).
+3. Or antibiotic-only / UV if that is lab practice — document the choice. Do not autoclave proteinaceous scaffolds.
+
+### Where to add PAA
+
+**Add PAA after decellularization and detergent/alkali washout are finished — not inside the SDS, SDC, or Triton/NH₄OH bath.**
+
+Correct order:
+
+1. Complete decell chemistry (SDS DET **or** SDC DET **or** Triton + NH₄OH ± trypsin)
+2. Finish water / PBS washout until detergent and NH₄OH are gone
+3. **← PAA step here** (terminal sterilization / disinfection)
+4. Extensive sterile PBS (and water) washes to remove PAA
+5. Optional short hold in sterile PBS + 3% P/S
+6. Equilibrate in medium → **reseed**
+
+Do **not** put PAA:
+
+- before or mixed into the main detergent step as a substitute for full washout
+- after formalin fixation
+- immediately before seeding without PBS washout (residual PAA is cytotoxic)
+
+PAA can slightly help residual cell clearance, but it is **not** a full replacement for SDS/Triton decell on thick ARMS/muscle. Treat it as sterilization of an already decellularized scaffold.
+
+### PAA recipe (common ECM scaffold practice)
+
+**0.1% (v/v) peracetic acid + 4% (v/v) ethanol** in sterile water (remainder water), **~1–2 h**, room temperature, gentle agitation.
+
+Example for **100 mL**:
+
+| Component | Amount |
+| --- | --- |
+| Peracetic acid (calculate from your stock % so final = **0.1% v/v**) | **CONFIRM** stock label (often ~32–40% PAA — dilute accordingly) |
+| Absolute ethanol | **4 mL** |
+| Sterile water | q.s. to 100 mL |
+
+Some papers use **0.1–0.2% PAA** for 0.5–2 h (occasionally longer). Start with **0.1% / 2 h** and lock the condition after a cytocompatibility smoke test.
+
+### After PAA (required)
+
+1. Wash **multiple times** with sterile PBS and/or sterile water (e.g. ≥3–6 changes over ≥1–2 h; longer for thick pieces).
+2. If cells die only on PAA-treated scaffolds, extend washes; some materials need an **ethanol quench** (e.g. ~70–80% ethanol 30 min) then more PBS — **CONFIRM** only if smoke test fails, because extra ethanol can also alter the matrix.
+3. Optional overnight soak in sterile culture medium before seeding.
+4. Proceed to reseeding the same day or store briefly in sterile PBS + 3% P/S at 4 °C.
+
+### Trade-offs
+
+PAA is oxidative/acidic: it can soften mechanics and nick some matrix/GAG biology. If FGF2–HS capture is the main readout, run matched **± PAA** batches once and compare sGAG / HS signal before making PAA mandatory.
 
 ## Reseeding for cell–ECM assays
 

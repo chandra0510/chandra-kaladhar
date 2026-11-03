@@ -18,7 +18,8 @@ Working protocol adapted from **Porzionato et al., *Int J Mol Sci* 2015** (Proto
 | 4→6 | Ultrapure water washout | 4 °C, **48 h**, change water several times |
 | 6 | PBS rinses (×3), then PBS + 3% P/S | 4 °C |
 | 6+ | Optional DNase rescue if DNA QC fails | See below |
-| 6–9 | ≥3 days PBS + 3% P/S before reseeding | Daily changes |
+| 6–9 | ≥3 days PBS + 3% P/S (or shorter if going straight to PAA) | Daily changes |
+| — | **Optional PAA** after washout (0.1% PAA + 4% EtOH, 1–2 h) → PBS washes | See [06-storage-and-reseeding.md](06-storage-and-reseeding.md) |
 | — | QC gate, then reseed or freeze | |
 
 ---
@@ -108,11 +109,15 @@ Same criteria as the SDS/SDC package ([05-quality-control.md](05-quality-control
 
 **If DNA/DAPI fails:** confirm washout was complete, then run **DNase rescue** once, re-wash in PBS+P/S, and re-QC. If still failing, thin pieces or extend Triton/NH₄OH time on the next batch — do not reseed a failed batch.
 
-### 8. Reseed (live scaffold only)
+### 8. Optional PAA (after step 5–6 washout, before reseeding)
+
+If you want chemical sterilization: **0.1% PAA + 4% ethanol, 1–2 h**, then extensive sterile PBS washes. Full detail and warnings: [06-storage-and-reseeding.md](06-storage-and-reseeding.md). Same insertion point for SDS/SDC arms — always **after** detergent clearance, **before** seeding.
+
+### 9. Reseed (live scaffold only)
 
 1. Equilibrate unfixed scaffold in culture medium.
 2. Seed RMS lines as in [06-storage-and-reseeding.md](06-storage-and-reseeding.md).
-3. Log detergent chemistry on every experiment (Triton+NH₄OH ± trypsin ≠ SDS DET).
+3. Log detergent chemistry (± PAA) on every experiment (Triton+NH₄OH ± trypsin ≠ SDS DET).
 
 ---
 

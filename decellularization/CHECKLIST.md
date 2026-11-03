@@ -27,6 +27,7 @@ Copy one block per batch. Fill before reseeding.
 - [ ] Cycle 2 complete
 - [ ] Cycle 3 complete (if used) — actual cycles run: ___
 - [ ] ≥ 3 days PBS + 3% P/S rinse with daily changes
+- [ ] Optional PAA after washout: 0.1% PAA + 4% EtOH 1–2 h → sterile PBS washes — done ☐ skipped ☐
 
 ## Triton + NH₄OH arm (if used)
 
@@ -36,6 +37,7 @@ Copy one block per batch. Fill before reseeding.
 - [ ] Water washout 48 h with multiple changes
 - [ ] PBS ×3, then ≥ 3 days PBS + 3% P/S
 - [ ] DNase rescue if DNA/DAPI failed — done ☐ n/a ☐
+- [ ] Optional PAA after washout: 0.1% PAA + 4% EtOH 1–2 h → sterile PBS washes — done ☐ skipped ☐
 
 ## QC gate (must pass)
 

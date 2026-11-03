@@ -29,10 +29,11 @@ Run **2–3 DET cycles** for ARMS pieces of a few millimeters. Check nuclear cle
 ## After the final cycle
 
 1. Rinse scaffolds **≥ 3 days** in sterile 1× PBS + 3% P/S at 4 °C, changing buffer daily. This clears residual detergent and enzyme.
-2. Split the batch:
+2. **Optional PAA:** after detergent is fully washed out, treat with **0.1% peracetic acid + 4% ethanol for 1–2 h**, then extensive sterile PBS washes — see [06-storage-and-reseeding.md](06-storage-and-reseeding.md). Do not add PAA into the SDS bath.
+3. Split the batch:
    - **QC aliquot** — fix / digest for DNA, histology, collagen, GAG (see [05-quality-control.md](05-quality-control.md))
    - **Storage aliquot** — freezing medium or short-term PBS+antibiotics (see [06-storage-and-reseeding.md](06-storage-and-reseeding.md))
-   - **Experiment aliquot** — proceed to sterilization and reseeding
+   - **Experiment aliquot** — proceed to sterilization (PAA if used) and reseeding
 
 ## Expected gross appearance
 
