@@ -22,6 +22,14 @@ Formaldehyde crosslinks ECM proteins, quenches residual bioactivity, hardens the
 
 Split every production batch: fix only the **QC / archive aliquot**. Keep the experiment aliquot unfixed (PBS+P/S or LN2 freezing medium below).
 
+### Do not “unfix” with ethanol for reseeding
+
+A common idea is: formalin fix → ethanol dehydration → step ethanol down (100% → 95% → 75% → 50% → water) → seed cells.
+
+**That does not make the scaffold usable for reseeding.** Formaldehyde forms covalent crosslinks in collagen and other ECM proteins. Graded ethanol only moves water in and out of an already fixed matrix; it does **not** reverse those crosslinks, restore native mechanics or growth-factor activity, or reliably clear cytotoxic fixative residues to a cell-culture standard.
+
+Use that path only if the end point is histology (or similar fixed imaging). For reseeding, never put the scaffold in formalin/PFA at any step.
+
 ## Short-term storage of **live** scaffolds (days)
 
 Keep QC-passed, **unfixed** scaffolds in sterile **1× PBS + 3% P/S** at 4 °C. Change buffer every 2–3 days. Use within ~1–2 weeks for best matrix fidelity (**CONFIRM** lab preference).

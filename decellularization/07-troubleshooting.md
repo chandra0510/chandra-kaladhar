@@ -11,5 +11,6 @@
 | Batch-to-batch variability | Inconsistent thickness or tumor necrosis | Standardize slice thickness; trim necrosis; always log wet weight and cycle number |
 | Strong autofluorescence masking DAPI | Collagen autofluorescence ± residual detergent | Use Feulgen or carefully matched exposure; extend washout |
 | Gel shows high-MW DNA | Incomplete fragmentation / clearance | Extra DNase cycle; do not pass batch for implantation-style use |
+| Want to reseed after formalin + ethanol rehydration | Fixation is covalent and not reversed by ethanol step-down | Discard that piece for culture; reseed only **unfixed** scaffolds stored in PBS+P/S or LN2 freezing medium |
 
 When in doubt, prioritize **DNA clearance + matrix cohesion + cytocompatibility** over forcing another detergent cycle.
