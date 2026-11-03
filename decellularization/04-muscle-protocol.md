@@ -11,7 +11,7 @@ Same DET cycle timing as ARMS; detergent is **4% sodium deoxycholate** (Padua mu
 | 3. Detergent washout | Sterile deionized water | **3–4** changes | Until detergent cleared |
 | 4. DNA clearance | **2000 kU DNase I in 1 M NaCl** | Room temperature, gentle agitation | **3 h** |
 
-Repeat for **2–3 cycles**, then ≥ 3 days PBS + 3% P/S rinse with daily changes.
+Repeat for **2–3 cycles**, then ≥ 3 days PBS + 3% P/S rinse with daily changes. Optional **PAA after washout** (0.1% PAA + 4% ethanol, 1–2 h → PBS washes) — same insertion point as ARMS; details in [06-storage-and-reseeding.md](06-storage-and-reseeding.md).
 
 ## SDS alternative for thick muscle
 
