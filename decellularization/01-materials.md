@@ -50,7 +50,19 @@ Prepare **2000 kU DNase I in 1 M NaCl** in a final volume matching the bath (e.g
 
 ### Post-DET antibiotic PBS
 
-1× PBS + **3%** penicillin–streptomycin (or equivalent final antibiotic strength used previously for scaffold storage). Sterile filter if prepared from non-sterile stocks.
+**Standard (Padua DET rinse / short-term storage):** sterile **1× PBS + 3% penicillin–streptomycin (P/S)**.
+
+Use the usual cell-culture **100× P/S stock** (Gibco / Thermo Fisher Life Technologies or equivalent): typically **10,000 U/mL penicillin + 10,000 µg/mL streptomycin**.
+
+| Mix | Amount |
+| --- | --- |
+| Sterile 1× PBS | 97 mL |
+| 100× P/S stock | **3 mL** (this is the “3%”) |
+| Final (approx.) | **300 U/mL penicillin + 300 µg/mL streptomycin** |
+
+That is about **3×** the usual 1% P/S used in culture medium (100 U/mL / 100 µg/mL). Higher antibiotic in the bath is for cold scaffold storage / rinse, not for growing cells in that buffer.
+
+**Alternatives some labs use:** 1% P/S only; or P/S **plus** amphotericin B (Fungizone) if fungal contamination is a concern — **CONFIRM** with Park-lab culture practice before adding amphotericin (it can be harsh on some lines if carried into the first seeding wash). Do not use sodium azide in any aliquot that will be reseeded.
 
 ### Scaffold freezing medium
 
