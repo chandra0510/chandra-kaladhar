@@ -40,7 +40,9 @@ Copy one block per batch. Fill before reseeding.
 
 ## Disposition
 
-- [ ] Storage: ☐ PBS+P/S 4 °C ☐ LN2 freezing medium ☐ Immediate use
+- [ ] Live scaffold storage: ☐ PBS+P/S 4 °C ☐ LN2 freezing medium ☐ Immediate use
+- [ ] Histology archive (separate aliquot only): ☐ 4% PFA / formalin fixed → PBS / OCT / paraffin
+- [ ] Confirmed: fixed pieces will **not** be reseeded
 - [ ] Sterile handling plan before culture confirmed
 - [ ] Batch ID recorded in lab notebook / digital log
 

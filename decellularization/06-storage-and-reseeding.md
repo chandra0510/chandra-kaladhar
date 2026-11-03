@@ -1,10 +1,32 @@
 # Storage, sterilization, and reseeding
 
-## Short-term storage (days)
+Choose storage by **end use**. Formalin is fine for histology archives. It is **not** a way to bank scaffolds you plan to reseed with living cells.
 
-Keep QC-passed scaffolds in sterile **1× PBS + 3% P/S** at 4 °C. Change buffer every 2–3 days. Use within ~1–2 weeks for best matrix fidelity (**CONFIRM** lab preference).
+## Formalin fixation (histology / QC archive only)
 
-## Long-term storage
+**Yes — for fixed analysis and long-term morphology storage.**  
+**No — for any later cell culture, AFM on living cells, FGF2-capture biology, or implantation-style use.**
+
+Formaldehyde crosslinks ECM proteins, quenches residual bioactivity, hardens the matrix, and changes mechanics. Once fixed, the piece is a histology specimen, not a living scaffold.
+
+### Practical fixation and storage
+
+1. Rinse the acellular scaffold in PBS to remove detergent/antibiotic carryover.
+2. Fix in **4% PFA** (or 10% neutral buffered formalin) at 4 °C. Padua muscle/ARMS histology used **~1 h** for small pieces; thicker pieces may need **2–24 h** — stop when the piece is firm through the core. Do not leave weeks in fixative if you care about epitope quality.
+3. Wash out fixative with several PBS changes (important before IF).
+4. Then store by one of these paths:
+   - **Short archive:** PBS (+ azide if the lab allows) at 4 °C for days to a few weeks
+   - **Cryosections:** sucrose gradient → OCT → freeze (as in harvest/QC notes)
+   - **Paraffin:** process to FFPE for long-term room-temperature blocks
+   - **Avoid** indefinite storage in concentrated formalin if you still need immunofluorescence; over-fixation raises autofluorescence and hurts some epitopes (laminin/collagen often survive with antigen retrieval; HS/GAG epitopes are more fragile)
+
+Split every production batch: fix only the **QC / archive aliquot**. Keep the experiment aliquot unfixed (PBS+P/S or LN2 freezing medium below).
+
+## Short-term storage of **live** scaffolds (days)
+
+Keep QC-passed, **unfixed** scaffolds in sterile **1× PBS + 3% P/S** at 4 °C. Change buffer every 2–3 days. Use within ~1–2 weeks for best matrix fidelity (**CONFIRM** lab preference).
+
+## Long-term storage of **live** scaffolds
 
 Published Padua storage medium: **70% FBS / 20% DMSO / 10% DMEM**, freeze in liquid nitrogen (vapor phase acceptable if that is CHLA practice).
 
@@ -13,6 +35,8 @@ On thaw:
 1. Warm quickly in a sterile bath.
 2. Wash thoroughly in sterile PBS (multiple changes) to remove DMSO/FBS before seeding.
 3. Optional: re-check DAPI on a thawed sacrificial piece if the batch is old.
+
+Lyophilization is another unfixed long-term option used in some ECM scaffold labs; **CONFIRM** before adopting — rehydration and mechanics differ from the frozen wet scaffold.
 
 ## Sterilization before cell culture
 
