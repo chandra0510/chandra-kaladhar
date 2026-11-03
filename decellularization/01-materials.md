@@ -23,6 +23,8 @@ Volumes below assume ~0.5–1 cm pieces in **40 mL** bath volume per sample (Pad
 | 1× PBS | Rinses, antibiotic storage | Sterile |
 | SDS (sodium dodecyl sulfate) | ARMS detergent (1% w/v) | Harsh anionic detergent; wears gloves, eye protection |
 | SDC (sodium deoxycholate) | Muscle detergent (4% w/v) | Prepare fresh; may precipitate at cold temps |
+| NH₄OH (ammonium hydroxide) | Optional alternate with Triton X-100 | Not first-line for ARMS here; fume hood; see [09-nh4oh-alternative.md](09-nh4oh-alternative.md) |
+| Triton X-100 | Paired with NH₄OH in alternate protocols | Nonionic detergent; rinse thoroughly before reseeding |
 | DNase I | DNA clearance | Use activity units as labeled; keep cold until use |
 | NaCl | 1 M carrier for DNase step | |
 | Penicillin–streptomycin (P/S) | 3% in PBS for post-DET rinse | Or lab-standard antibiotic mix |

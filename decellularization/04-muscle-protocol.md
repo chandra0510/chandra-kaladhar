@@ -25,6 +25,10 @@ If 4% SDC leaves residual nuclei after 3 cycles on your thickness:
 
 **CONFIRM** which detergent becomes the lab standard for muscle before publishing or multi-week campaigns.
 
+## NH₄OH alternative
+
+**Ammonium hydroxide can help decellularize**, usually as **Triton X-100 + NH₄OH** (± short trypsin/EDTA), not as NH₄OH alone. Some human skeletal-muscle papers prefer that cocktail over SDC for fiber clearance. DNA removal is often weaker or slower than SDS unless the long Triton/NH₄OH incubation is done carefully — still run full QC. Details: [09-nh4oh-alternative.md](09-nh4oh-alternative.md).
+
 ## Architecture note
 
 Muscle ECM should retain fascicular / aligned cues when possible. Avoid mincing if the experiment needs oriented topography for RMS cell spreading or migration; use intact slices of defined thickness instead.

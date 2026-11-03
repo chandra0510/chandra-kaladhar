@@ -25,6 +25,7 @@ This draft does **not** replace IACUC, biosafety, or institutional SOP approval.
 | [06-storage-and-reseeding.md](06-storage-and-reseeding.md) | Formalin (histology only) vs live scaffold storage; sterilization; reseeding |
 | [07-troubleshooting.md](07-troubleshooting.md) | Common failure modes |
 | [08-references.md](08-references.md) | Primary citations |
+| [09-nh4oh-alternative.md](09-nh4oh-alternative.md) | NH₄OH ± Triton as an alternate decell chemistry |
 | [CHECKLIST.md](CHECKLIST.md) | Run sheet before each batch |
 
 ## Pass / fail (minimal)

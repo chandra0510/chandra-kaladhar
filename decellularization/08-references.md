@@ -16,4 +16,8 @@ Primary methods and criteria used to draft this working protocol. Verify PDFs ag
 
 7. **Hurdles in DNA QC:** reports that silica columns can lose <200 bp fragments and that DAPI autofluorescence can mislead — prefer Qubit on lysates and consider Feulgen when needed.
 
+8. **Porzionato A et al.** Decellularized human skeletal muscle as biologic scaffold for reconstructive surgery. *Int J Mol Sci.* 2015 — trypsin/EDTA then **2% Triton X-100 + 0.8% NH₄OH** muscle protocol; DNA can meet Crapo thresholds when fully optimized.
+
+9. Reviews noting **NH₄OH / non-SDS** arms often clear less DNA than **1% SDS** unless carefully tuned (e.g. Frontiers Bioeng Biotechnol 2022 skeletal/cardiac decell review).
+
 This folder is a **draft lab protocol**, not a copy of any single publisher’s full Methods text. For submission or SOP formalization, rewrite in CHLA format and cite the primary papers directly.
