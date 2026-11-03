@@ -8,6 +8,7 @@
 | Cells die on scaffold | Residual SDS/SDC | Extra PBS+P/S wash days; optional overnight medium soak before seeding; cytocompatibility smoke test |
 | No laminin / collagen signal | Over-decellularization or failed IF | Shorten detergent time on next batch; verify antibodies on native control |
 | sGAG near zero after SDS | Expected risk of anionic detergents | Minimize SDS cycles; prioritize GAG QC for FGF2/HSPG studies; consider SDC muscle scaffolds as GAG-rich comparators |
+| Low GAG/HS after Triton/NH₄OH + trypsin | Trypsin cleaves proteoglycan **core proteins** → HS/GAG fragments wash out (trypsin does not cut the sugar chain like heparinase) | Drop or shorten trypsin; compare ± trypsin with Blyscan + HS IF; keep Triton/NH₄OH wash times matched |
 | Batch-to-batch variability | Inconsistent thickness or tumor necrosis | Standardize slice thickness; trim necrosis; always log wet weight and cycle number |
 | Strong autofluorescence masking DAPI | Collagen autofluorescence ± residual detergent | Use Feulgen or carefully matched exposure; extend washout |
 | Gel shows high-MW DNA | Incomplete fragmentation / clearance | Extra DNase cycle; do not pass batch for implantation-style use |

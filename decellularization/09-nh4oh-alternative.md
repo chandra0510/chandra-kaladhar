@@ -79,6 +79,26 @@ Same as DET package: **2000 kU DNase I in 1 M NaCl**, 3 h, RT, gentle agitation,
 
 **Without trypsin:** go from water → PBS rinse → straight to Triton/NH₄OH. Expect slower or incomplete fiber clearance on dense muscle; QC will decide.
 
+### How trypsin affects GAGs / heparan sulfate
+
+Trypsin is a **protease**, not a GAG lyase. It does **not** cut the sugar chains of heparan sulfate the way heparinase does. It cuts **proteins** (peptide bonds after Lys/Arg).
+
+In ECM, most HS and other GAGs hang on **proteoglycan core proteins** (e.g. SPOCK/testican family, syndecans, glypicans, perlecan, agrin). So trypsin can still deplete GAGs/HS **indirectly**:
+
+1. Cleaves or sheds the core protein → GAG-bearing fragments are released into the bath and washed out  
+2. Damages laminin / collagen / other matrix that anchors proteoglycans → more PG loss during later Triton/NH₄OH washes  
+3. Prolonged or warm trypsin makes this worse; the published **1 h / 0.05%** step is already enough to matter for sensitive readouts  
+
+**Practical meaning for your reseeding / FGF2 work:**
+
+| If your assay needs… | Trypsin choice |
+| --- | --- |
+| FGF2 capture, HS IF, expansion microscopy of HS, SPOCK3-related matrix biology | Prefer **no trypsin** (or a pilot ± trypsin with Blyscan sGAG + HS stain) |
+| Max myofiber clearance on tough muscle, less concern about HS | Trypsin ON (Porzionato Protocol 2) is reasonable |
+| Both clearance and HS | Run two small arms (± trypsin), same Triton/NH₄OH, compare DNA QC **and** sGAG/HS before locking the SOP |
+
+SDS can also strip GAGs by detergent extraction; trypsin’s hit is mainly **proteolytic loss of PG cores**. Neither is “heparinase,” but both can lower the HS you care about for reseeding assays.
+
 ### 4. Main decell: Triton + NH₄OH (Day 1 → 4)
 
 - Incubate in **2% Triton X-100 + 0.8% NH₄OH**.
