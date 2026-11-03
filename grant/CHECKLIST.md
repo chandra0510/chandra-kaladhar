@@ -16,6 +16,14 @@ Word counts below were run on the paste-ready paragraphs only. Re-count after yo
 | References | 30 | 9 | 07 |
 | Budget | 1 page | Planning sketch | 08 |
 
+## CHLA first
+
+- [ ] Email Jenna Varing (Foundation Relations) and Ernesto (budget/packet) using [13-chla-outreach.md](13-chla-outreach.md) if not already done.
+- [ ] Confirm postdoc-as-PI with Sponsored Projects and, if needed, grants@rhabdocoalition.org.
+- [ ] Get salary, fringe, effort, and the indirect-cost rate CHLA will apply to this sponsor.
+- [ ] Rebuild [08-budget.md](08-budget.md) into the institutional one-page form. Delete every ESTIMATE label.
+- [ ] Deliver the institutional packet by **Friday, November 20, 2026** (Pacific Time).
+
 ## Portal
 
 - [ ] Register at https://grants.rhabdocoalition.org/ with the email you will use as principal investigator.
@@ -28,12 +36,13 @@ Word counts below were run on the paste-ready paragraphs only. Re-count after yo
 - [ ] Upload Dr. Vemula’s NIH biosketch after every bracket is filled.
 - [ ] Upload Dr. Park’s NIH biosketch and signed letter.
 - [ ] Upload a letter from the atomic force microscopy operator only if that person is outside the Park laboratory.
-- [ ] Save as final, download the PDF, and keep the confirmation.
+- [ ] Save as final by **Monday, November 30, 2026, 8:59 p.m. Pacific Time**, download the PDF, and keep the confirmation.
 
 ## Scientific checks before paste
 
-- [ ] Every preliminary SPOCK3 sentence matches a figure you can defend. Cortical tension stays worded as “appears” unless a completed measurement says otherwise.
+- [ ] Complete [12-prelim-data-checklist.md](12-prelim-data-checklist.md). Every preliminary SPOCK3 sentence matches a figure you can defend. Cortical tension stays worded as “appears” unless a completed measurement says otherwise.
 - [ ] The Summer’s Way fellowship status is stated in Other Funding: pending, funded, or not funded. Overlapping costs are removed.
+- [ ] Dr. Park’s National Pediatric Cancer Foundation and Alex’s Lemonade Stand Foundation awards are disclosed as non-overlapping, or overlapping costs are removed.
 - [ ] No sentence states a fold-change, p-value, concentration, or sample size that is not in a figure you are willing to defend.
 - [ ] SPOCK3 knockout and the atomic force measurements are described as proposed work, not as finished results.
 - [ ] Other funding is cleared against active and pending awards.

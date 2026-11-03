@@ -8,9 +8,9 @@ Copy these fields into the portal. Replace every CONFIRM line before submission.
 | Email | cvemula@chla.usc.edu |
 | Institution | Children’s Hospital Los Angeles |
 | Department | Cancer and Blood Disease Institute |
-| Appointment | **CONFIRM** (postdoctoral fellow is the working assumption) |
-| Career stage | Early-career investigator; doctoral degree already awarded. **CONFIRM** the degree date. The public record does not include it. |
-| Mentor | JinSeok Park, PhD, Cancer and Blood Disease Institute, Children’s Hospital Los Angeles. **CONFIRM** faculty title and email. |
+| Appointment | Postdoctoral fellow (working assumption). **CONFIRM** the exact CHLA appointment line the form should show. |
+| Career stage | Early-career investigator; doctoral degree already awarded (public CHLA materials name Chandra Vemula, PhD). **CONFIRM** the degree-conferral date for the form. |
+| Mentor | JinSeok Park, PhD, Assistant Professor of Pediatrics, Keck School of Medicine of USC; Investigator, Cancer and Blood Disease Institute, Children’s Hospital Los Angeles. **CONFIRM** the email address the portal should use. |
 | Key collaborators | None required unless someone outside the laboratory runs atomic force microscopy. **CONFIRM** the instrument and the operator. List that person only if they have a real role, and then attach a letter. |
 | Project title | SPOCK3 in growth and extravasation of fusion-positive rhabdomyosarcoma |
 | Project period | 2 years: March 1, 2027 – February 28, 2029 |
