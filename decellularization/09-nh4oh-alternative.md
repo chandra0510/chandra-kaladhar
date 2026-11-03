@@ -6,23 +6,29 @@ Working protocol adapted from **Porzionato et al., *Int J Mol Sci* 2015** (Proto
 
 ---
 
+
+
 ## Timeline (about 6 days wet chemistry)
 
-| Day | Step | Condition |
-| --- | --- | --- |
-| 0 | Harvest, trim to ≤3–5 mm thickness, PBS rinse, reserve native QC piece | Ice / sterile |
-| 0→1 | Ultrapure water | 4 °C, **24 h** |
-| 1 | Optional trypsin–EDTA | 37 °C, **1 h** |
-| 1 | PBS wash | RT, several changes |
-| 1→4 | **2% Triton X-100 + 0.8% NH₄OH** | 4 °C, continuous agitation, **72 h** |
-| 4→6 | Ultrapure water washout | 4 °C, **48 h**, change water several times |
-| 6 | PBS rinses (×3), then PBS + 3% P/S | 4 °C |
-| 6+ | Optional DNase rescue if DNA QC fails | See below |
-| 6–9 | ≥3 days PBS + 3% P/S (or shorter if going straight to PAA) | Daily changes |
-| — | **Optional PAA** after washout (0.1% PAA + 4% EtOH, 1–2 h) → PBS washes | See [06-storage-and-reseeding.md](06-storage-and-reseeding.md) |
-| — | QC gate, then reseed or freeze | |
+
+| Day | Step                                                                    | Condition                                                      |
+| --- | ----------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 0   | Harvest, trim to ≤3–5 mm thickness, PBS rinse, reserve native QC piece  | Ice / sterile                                                  |
+| 0→1 | Ultrapure water                                                         | 4 °C, **24 h**                                                 |
+| 1   | Optional trypsin–EDTA                                                   | 37 °C, **1 h**                                                 |
+| 1   | PBS wash                                                                | RT, several changes                                            |
+| 1→4 | **2% Triton X-100 + 0.8% NH₄OH**                                        | 4 °C, continuous agitation, **72 h**                           |
+| 4→6 | Ultrapure water washout                                                 | 4 °C, **48 h**, change water several times                     |
+| 6   | PBS rinses (×3), then PBS + 3% P/S                                      | 4 °C                                                           |
+| 6+  | Optional DNase rescue if DNA QC fails                                   | See below                                                      |
+| 6–9 | ≥3 days PBS + 3% P/S (or shorter if going straight to PAA)              | Daily changes                                                  |
+| —   | **Optional PAA** after washout (0.1% PAA + 4% EtOH, 1–2 h) → PBS washes | See [06-storage-and-reseeding.md](06-storage-and-reseeding.md) |
+| —   | QC gate, then reseed or freeze                                          |                                                                |
+
 
 ---
+
+
 
 ## Stock recipes (make fresh where noted)
 
@@ -41,11 +47,13 @@ Warm to 37 °C before use. **CONFIRM** whether your first ARMS/muscle run includ
 
 For **100 mL** bath (scale to fully cover tissue with free movement):
 
-| Component | Amount | Notes |
-| --- | --- | --- |
-| Triton X-100 | **2 mL** | Viscous — pipette slowly or weigh ~2.1 g |
-| Ammonium hydroxide | to **0.8% (v/v)** final | See dilution note below |
-| Sterile ultrapure water | q.s. to 100 mL | Mix gently; avoid excess foam |
+
+| Component               | Amount                  | Notes                                    |
+| ----------------------- | ----------------------- | ---------------------------------------- |
+| Triton X-100            | **2 mL**                | Viscous — pipette slowly or weigh ~2.1 g |
+| Ammonium hydroxide      | to **0.8% (v/v)** final | See dilution note below                  |
+| Sterile ultrapure water | q.s. to 100 mL          | Mix gently; avoid excess foam            |
+
 
 **NH₄OH dilution note:** Commercial “concentrated” ammonium hydroxide is often ~28–30% NH₃ (≈14.8 N). **0.8% (v/v)** means **0.8 mL concentrated NH₄OH per 100 mL** final solution if your bottle is labeled as the usual concentrated reagent. **CONFIRM** the % on your bottle and calculate so the bath is 0.8% v/v of that stock as used in Porzionato, or match their molarity if your stock differs. Prepare the Triton/NH₄OH mix shortly before use; keep cold.
 
@@ -55,7 +63,11 @@ Same as DET package: **2000 kU DNase I in 1 M NaCl**, 3 h, RT, gentle agitation,
 
 ---
 
+
+
 ## Step-by-step
+
+
 
 ### 1. Tissue prep (Day 0)
 
@@ -65,11 +77,15 @@ Same as DET package: **2000 kU DNase I in 1 M NaCl**, 3 h, RT, gentle agitation,
 4. Reserve a **native** piece for DNA / DAPI / matrix baselines.
 5. Label batch: tissue type, ID, “Triton+NH4OH”, ± trypsin.
 
+
+
 ### 2. Hypotonic water (Day 0 → 1)
 
 - Submerge in sterile **ultrapure water**.
 - **24 h at 4 °C** (static or gentle rock).
 - Volume example: ~40 mL per piece (tissue must move freely).
+
+
 
 ### 3. Trypsin–EDTA (Day 1) — optional but part of the published Protocol 2
 
@@ -85,17 +101,19 @@ Trypsin is a **protease**, not a GAG lyase. It does **not** cut the sugar chains
 
 In ECM, most HS and other GAGs hang on **proteoglycan core proteins** (e.g. SPOCK/testican family, syndecans, glypicans, perlecan, agrin). So trypsin can still deplete GAGs/HS **indirectly**:
 
-1. Cleaves or sheds the core protein → GAG-bearing fragments are released into the bath and washed out  
-2. Damages laminin / collagen / other matrix that anchors proteoglycans → more PG loss during later Triton/NH₄OH washes  
-3. Prolonged or warm trypsin makes this worse; the published **1 h / 0.05%** step is already enough to matter for sensitive readouts  
+1. Cleaves or sheds the core protein → GAG-bearing fragments are released into the bath and washed out
+2. Damages laminin / collagen / other matrix that anchors proteoglycans → more PG loss during later Triton/NH₄OH washes
+3. Prolonged or warm trypsin makes this worse; the published **1 h / 0.05%** step is already enough to matter for sensitive readouts
 
 **Practical meaning for your reseeding / FGF2 work:**
 
-| If your assay needs… | Trypsin choice |
-| --- | --- |
-| FGF2 capture, HS IF, expansion microscopy of HS, SPOCK3-related matrix biology | Prefer **no trypsin** (or a pilot ± trypsin with Blyscan sGAG + HS stain) |
-| Max myofiber clearance on tough muscle, less concern about HS | Trypsin ON (Porzionato Protocol 2) is reasonable |
-| Both clearance and HS | Run two small arms (± trypsin), same Triton/NH₄OH, compare DNA QC **and** sGAG/HS before locking the SOP |
+
+| If your assay needs…                                                           | Trypsin choice                                                                                           |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| FGF2 capture, HS IF, expansion microscopy of HS, SPOCK3-related matrix biology | Prefer **no trypsin** (or a pilot ± trypsin with Blyscan sGAG + HS stain)                                |
+| Max myofiber clearance on tough muscle, less concern about HS                  | Trypsin ON (Porzionato Protocol 2) is reasonable                                                         |
+| Both clearance and HS                                                          | Run two small arms (± trypsin), same Triton/NH₄OH, compare DNA QC **and** sGAG/HS before locking the SOP |
+
 
 SDS can also strip GAGs by detergent extraction; trypsin’s hit is mainly **proteolytic loss of PG cores**. Neither is “heparinase,” but both can lower the HS you care about for reseeding assays.
 
@@ -106,16 +124,22 @@ SDS can also strip GAGs by detergent extraction; trypsin’s hit is mainly **pro
 - Keep the container closed as much as practical (ammonia odor); open only in a fume hood when changing or checking.
 - Tissue should progressively pale; it must remain cohesive.
 
+
+
 ### 5. Detergent / alkali washout (Day 4 → 6)
 
 - Transfer to sterile **ultrapure water**.
 - Wash **48 h at 4 °C** with **multiple water changes** (e.g. 3–6 changes over 2 days). Residual Triton/NH₄OH kills cells at reseeding.
 - Then rinse **3× in sterile 1× PBS**.
 
+
+
 ### 6. Antibiotic PBS hold (Day 6 onward)
 
 - Move to sterile **1× PBS + 3% penicillin–streptomycin** (see [01-materials.md](01-materials.md)).
 - Hold **≥3 days** at 4 °C with daily changes before first reseeding, or proceed to QC then freeze.
+
+
 
 ### 7. QC gate (required before reseeding)
 
@@ -141,22 +165,30 @@ If you want chemical sterilization: **0.1% PAA + 4% ethanol, 1–2 h**, then ext
 
 ---
 
+
+
 ## Quick decision guide
 
-| Goal | Suggestion |
-| --- | --- |
-| Match published human/animal muscle Protocol 2 | Full process **with** trypsin–EDTA |
-| Maximize GAG/HS for FGF2 / SPOCK3 readouts | Try **without trypsin** first; prioritize Blyscan/HS QC |
-| ARMS tumor scaffold, first production | Prefer **1% SDS DET** ([03-arms-protocol.md](03-arms-protocol.md)); use this as a comparator arm |
-| Failed DNA after Triton/NH₄OH | DNase rescue → re-QC |
+
+| Goal                                           | Suggestion                                                                                       |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Match published human/animal muscle Protocol 2 | Full process **with** trypsin–EDTA                                                               |
+| Maximize GAG/HS for FGF2 / SPOCK3 readouts     | Try **without trypsin** first; prioritize Blyscan/HS QC                                          |
+| ARMS tumor scaffold, first production          | Prefer **1% SDS DET** ([03-arms-protocol.md](03-arms-protocol.md)); use this as a comparator arm |
+| Failed DNA after Triton/NH₄OH                  | DNase rescue → re-QC                                                                             |
+
 
 ---
+
+
 
 ## Safety and waste
 
 - NH₄OH: corrosive, ammonia vapor → **fume hood**
 - Collect Triton/NH₄OH waste as chemical waste (not sink)
 - Same xenograft biosafety rules as other arms
+
+
 
 ## Source
 

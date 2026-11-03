@@ -21,7 +21,7 @@ This draft does **not** replace IACUC, biosafety, or institutional SOP approval.
 | [02-tissue-harvest.md](02-tissue-harvest.md) | Xenograft and muscle collection |
 | [03-arms-protocol.md](03-arms-protocol.md) | ARMS DET with 1% SDS |
 | [04-muscle-protocol.md](04-muscle-protocol.md) | Skeletal muscle DET with 4% SDC (SDS alternative noted) |
-| [05-quality-control.md](05-quality-control.md) | Crapo criteria, histology, collagen/GAG, mechanics |
+| [05-quality-control.md](05-quality-control.md) | How-to: dry-weight DNA, DAPI, one DNase rescue + re-QC |
 | [06-storage-and-reseeding.md](06-storage-and-reseeding.md) | Formalin (histology only) vs live scaffold storage; sterilization; reseeding |
 | [07-troubleshooting.md](07-troubleshooting.md) | Common failure modes |
 | [08-references.md](08-references.md) | Primary citations |

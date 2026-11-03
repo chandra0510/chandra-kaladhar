@@ -41,9 +41,11 @@ Copy one block per batch. Fill before reseeding.
 
 ## QC gate (must pass)
 
-- [ ] dsDNA < 50 ng / mg dry ECM — value: ___ ng/mg — method: ☐ Qubit ☐ other
-- [ ] Agarose: fragments < 200 bp or no detectable DNA
+- [ ] Dry weight of DNA aliquot: ___ mg
+- [ ] dsDNA < 50 ng / mg dry ECM — value: ___ ng/mg — method: ☐ Qubit on lysate ☐ Qubit on column eluate ☐ other
+- [ ] Agarose: fragments < 200 bp or no detectable DNA ☐ n/a (no DNA)
 - [ ] DAPI: no intact nuclei (core checked)
+- [ ] If failed once: DNase rescue 3 h done → re-QC DNA ___ ng/mg ; DAPI ☐ pass ☐ fail
 - [ ] H&E reviewed
 - [ ] Laminin and/or collagen I retained (IF or trichrome)
 - [ ] sGAG note (required if batch used for FGF2/HSPG work):
