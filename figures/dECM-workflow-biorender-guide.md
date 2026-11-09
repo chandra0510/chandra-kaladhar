@@ -40,8 +40,12 @@ Layout: **one horizontal strip, 6 equal panels**, white background, teal cells +
 4. Sterilize (optional PAA) → equilibrate → reseed FPRMS lines.
 5. Image ECM architecture and cell–matrix interaction by **confocal reflection microscopy (CRM)**, with fluorescence overlays as needed.
 
-## File in this folder
+## Files in this folder
 
 AI draft schematic (for slides / grant drafts while you rebuild in BioRender):
 
 [`dECM-workflow-mouse-to-CRM.jpg`](dECM-workflow-mouse-to-CRM.jpg)
+
+Photo-realistic **collage** version of the same 6-panel flow (mouse → harvest → decell → dECM → recell → CRM):
+
+[`dECM-workflow-collage.jpg`](dECM-workflow-collage.jpg)
