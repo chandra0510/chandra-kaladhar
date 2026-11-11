@@ -37,28 +37,37 @@ This Rhabdo Coalition proposal tests whether WEE1 dependence persists in tissue-
 
 ## C. Contributions to science
 
-Paste the contributions below into Section C of the NIH biosketch. They cover CHLA work only. Confirm your exact role wording with Dr. Park before upload.
+NIH Biographical Sketch Supplement format: each contribution ≤2,000 characters; include background, central findings, influence, and your role; parenthetical product refs only (no full citations or hyperlinks). Confirm role wording with Dr. Park before upload. List matching items in Products.
 
-### 1. PAX3-FOXO1 reprograms cell–ECM interaction in rhabdomyosarcoma
+### 1. PAX3-FOXO1 reprograms cell–ECM interaction in rhabdomyosarcoma (~1,240 characters)
 
-My postdoctoral work at Children’s Hospital Los Angeles focuses on how the PAX3-FOXO1 fusion reshapes tumor-cell interaction with the extracellular matrix in fusion-positive rhabdomyosarcoma (FPRMS). Fusion-positive tumors engage the matrix less than fusion-negative disease. We showed that this difference is caused in part by the fusion itself: PAX3-FOXO1 increases NOS1, nitric oxide inhibits TGFβ signaling, and matrix engagement falls. Restoring matrix dependence by removing the fusion makes the cells sensitive to disruption of that interaction. I contributed to fusion-knockdown, matrix-imaging, and related functional experiments in this project, including work presented at AACR 2024. These findings motivate the present application’s use of native muscle ECM scaffolds to study FPRMS in tissue-like architecture.
+Historical background: Rhabdomyosarcoma (RMS) is the most common pediatric soft-tissue sarcoma and is divided into fusion-positive RMS (FPRMS), driven by PAX3-FOXO1, and fusion-negative RMS (FNRMS). FPRMS has poorer outcomes, yet how the fusion reshapes tumor-cell interaction with the extracellular matrix (ECM) was incompletely defined.
 
-- Chronopoulos A, Chavez I, Vemula CK, Mittal N, Zamloot V, Pan Y, Han SJ, Park J. The PAX3-FOXO1 fusion gene reduces cell–ECM interactions and TGFβ signaling in rhabdomyosarcoma. *J Cell Biol*. 2025;224(7):e202408155. doi:10.1083/jcb.202408155
-- Vemula CK, Chavez I, Chronopoulos A, Park J. Effect of PAX3-FOXO1 fusion gene on cell-extracellular matrix interaction of rhabdomyosarcoma. *Cancer Res*. 2024;84(6 Suppl):Abstract 4269.
+Central findings: We found that FNRMS cells engage the ECM more strongly through TGFβ signaling, whereas PAX3-FOXO1 increases NOS1/nitric oxide, suppresses TGFβ signaling, and reduces cell–ECM interaction in FPRMS (Chronopoulos, Chavez et al., 2025; Vemula et al., 2024). Removing the fusion restores matrix dependence and sensitizes cells to disruption of that interaction.
 
-### 2. Extracellular-matrix topography drives neuroblastoma phenotype switching
+Influence: These findings identify matrix engagement and TGFβ signaling as fusion-controlled phenotypes relevant to metastatic behavior and suggest matrix-facing vulnerabilities that differ by RMS subtype, informing strategies to improve therapy for children with RMS.
 
-At CHLA I also contributed to mechanobiology studies in neuroblastoma, another pediatric solid tumor in which matrix architecture shapes malignant phenotype. We showed that fibrous extracellular-matrix topography can drive adrenergic-to-mesenchymal transition. I contributed to matrix-facing experimental work in this study. This training in engineered and native-like ECM systems directly supports the decellularized muscle scaffold and imaging approaches proposed for FPRMS.
+My role: As a postdoctoral fellow at Children’s Hospital Los Angeles, I contributed to fusion-knockdown experiments, quantitative matrix imaging, and related functional assays in FPRMS models, including work presented at AACR 2024 (Vemula et al., 2024).
 
-- Chronopoulos A, Vemula CK, Zamloot V, Chavez I, Kennedy R, Kim W, Bell D, Pan Y, Moghimi B, Kim J, Asgharzadeh S, Park J. Extracellular matrix topography drives adrenergic to mesenchymal transition in neuroblastoma. *Adv Mater*. 2025;37(37):e2501526. doi:10.1002/adma.202501526
+### 2. Extracellular-matrix topography drives neuroblastoma phenotype switching (~990 characters)
 
-### 3. PAX3-FOXO1, WEE1, and collective invasion in fusion-positive rhabdomyosarcoma
+Historical background: Neuroblastoma phenotypes are strongly influenced by the tumor microenvironment, but how physical ECM architecture itself drives malignant state transitions was not fully clear.
 
-Building on the RMS matrix program, I am investigating how PAX3-FOXO1 controls cell-cycle programs during collective invasion. In a spheroid model of FPRMS, follower cells behind the invasive front have higher PAX3-FOXO1, higher proliferation, and higher WEE1 activity. Knockdown of the fusion is negatively enriched for G1/S and DNA-replication programs, and WEE1 inhibition slows growth and invasion in this model. These data, reported as an AACR 2026 abstract, established monolayer/3D evidence for WEE1 dependence and motivate testing whether that dependence persists in native muscle ECM architecture.
+Central findings: We showed that fibrous ECM topography can drive adrenergic-to-mesenchymal transition in neuroblastoma (Chronopoulos, Vemula et al., 2025). Matrix geometry therefore acts as an instructive cue for phenotype switching, beyond soluble signals alone.
 
-- Vemula CK, Park J. Cell cycle regulation by PAX3-FOXO1 via WEE1 kinase in fusion-positive rhabdomyosarcoma. *Cancer Res*. 2026;86(7 Suppl):Abstract 4935.
+Influence: This work advances pediatric solid-tumor mechanobiology by linking native-like matrix architecture to clinically relevant phenotype states, supporting the broader use of engineered and native ECM systems to study childhood cancers and therapy response.
 
-**[Add further contributions only if you have additional peer-reviewed papers. Keep abstracts clearly labeled as abstracts.]**
+My role: At Children’s Hospital Los Angeles, I contributed to matrix-facing experimental work and imaging analyses in this study (Chronopoulos, Vemula et al., 2025), building expertise in ECM systems that I continue to apply in pediatric sarcoma research.
+
+### 3. PAX3-FOXO1, WEE1, and collective invasion in FPRMS (~1,150 characters)
+
+Historical background: Fusion-positive rhabdomyosarcoma (FPRMS) invades collectively, but how PAX3-FOXO1 coordinates cell-cycle control among leader and follower cells during invasion remained poorly understood. WEE1 is a G2/M checkpoint kinase and a candidate vulnerability downstream of the fusion.
+
+Central findings: In a spheroid invasion model, follower cells behind the invasive front show higher PAX3-FOXO1, higher proliferation, and higher WEE1 activity. PAX3-FOXO1 knockdown is negatively enriched for G1/S and DNA-replication programs, and WEE1 inhibition slows growth and invasion (Vemula and Park, 2026).
+
+Influence: These findings nominate WEE1 as a functionally relevant node in FPRMS collective invasion and support further testing of whether WEE1 dependence persists in more tissue-like ECM contexts before clinical prioritization.
+
+My role: I am first author on this work. I designed and performed the invasion, cell-cycle, and WEE1-inhibition experiments and analyzed the associated transcriptomic enrichment results reported in the AACR 2026 abstract (Vemula and Park, 2026). A full manuscript from this project is under development.
 
 ## D. Scholastic performance
 
