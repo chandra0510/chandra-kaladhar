@@ -12,7 +12,7 @@ Copy these fields into the portal. Replace every CONFIRM line before submission.
 | Career stage | Early-career investigator; doctoral degree already awarded (public CHLA materials name Chandra Vemula, PhD). **CONFIRM** the degree-conferral date for the form. |
 | Mentor | JinSeok Park, PhD, Assistant Professor of Pediatrics, Keck School of Medicine of USC; Investigator, Cancer and Blood Disease Institute, Children’s Hospital Los Angeles. **CONFIRM** the email address the portal should use. |
 | Key collaborators | None required unless someone outside the laboratory runs atomic force microscopy. **CONFIRM** the instrument and the operator. List that person only if they have a real role, and then attach a letter. |
-| Project title | SPOCK3 in growth and extravasation of fusion-positive rhabdomyosarcoma |
+| Project title | Native muscle ECM scaffolds to map WEE1 dependence in fusion-positive rhabdomyosarcoma |
 | Project period | 2 years: March 1, 2027 – February 28, 2029 |
 | Total funding requested | $100,000 total costs ($50,000 per year). See [08-budget.md](08-budget.md). **CONFIRM** against any cap shown inside the portal. The open instructions do not publish a maximum. |
 | Primary funding priority | **CONFIRM** against the portal dropdown. Choose the option closest to new therapeutic targets for fusion-positive rhabdomyosarcoma. |

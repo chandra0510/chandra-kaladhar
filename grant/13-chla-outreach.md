@@ -1,6 +1,6 @@
 # CHLA outreach drafts
 
-Use these only if the earlier messages were not already sent. Update the project title and the Summer’s Way status before sending. Both drafts assume the SPOCK3 project, not the earlier WEE1 sketch.
+Use these only if the earlier messages were not already sent. Confirm Summer’s Way / other-funding status before sending. Project title is locked below.
 
 ## Jenna Varing — Foundation Relations
 
@@ -13,7 +13,7 @@ I am Chandra Kaladhar Vemula, PhD, a postdoctoral fellow with JinSeok Park, PhD,
 
 The Coalition uses one application and one Scientific Advisory Board review; member foundations then decide independently whether to fund. The portal is https://grants.rhabdocoalition.org/. Applications close November 30, 2026, at 11:59 p.m. Eastern Time (8:59 p.m. Pacific Time). The anticipated start is March 1, 2027.
 
-The project title is “SPOCK3 in growth and extravasation of fusion-positive rhabdomyosarcoma.” The working request is $100,000 total costs over two years. A related scientific plan was previously submitted as a Summer’s Way fellowship application; Summer’s Way is a Coalition member, so I will need guidance on how to disclose that overlap.
+The project title is “Native muscle ECM scaffolds to map WEE1 dependence in fusion-positive rhabdomyosarcoma.” The working request is $100,000 total costs over two years. **CONFIRM** other current/pending RMS applications for overlap disclosure with Foundation Relations.
 
 Could we connect on Teams this week or next to discuss Foundation Relations clearance and anything else CHLA needs before I involve Sponsored Projects on the budget?
 
@@ -32,7 +32,7 @@ Dear Ernesto,
 
 I am preparing an extramural application to the Rhabdo Coalition Collaborative Research Grant and would like your help with the budget and the other documents needed for CHLA submission. The announcement is forwarded below.
 
-I am Chandra Kaladhar Vemula, PhD, a postdoctoral fellow with JinSeok Park, PhD, in the Cancer and Blood Disease Institute. The project is “SPOCK3 in growth and extravasation of fusion-positive rhabdomyosarcoma.” The proposed period is March 1, 2027 through February 28, 2029. A working target is $100,000 in total costs over two years, or $50,000 per year. The smallest useful award is $40,000 for one year. Those figures are only a sketch. I need a CHLA budget that uses the correct salary, fringe, and indirect-cost rate.
+I am Chandra Kaladhar Vemula, PhD, a postdoctoral fellow with JinSeok Park, PhD, in the Cancer and Blood Disease Institute. The project is “Native muscle ECM scaffolds to map WEE1 dependence in fusion-positive rhabdomyosarcoma.” The proposed period is March 1, 2027 through February 28, 2029. A working target is $100,000 in total costs over two years, or $50,000 per year. The smallest useful award is $40,000 for one year. Those figures are only a sketch. I need a CHLA budget that uses the correct salary, fringe, and indirect-cost rate.
 
 The sponsor requires direct and indirect costs to be listed separately, including the institutional indirect-cost rate. The portal does not publish an award cap or an indirect-cost limit. Could you advise what rate CHLA will apply to this foundation grant, and whether a waiver is needed?
 
