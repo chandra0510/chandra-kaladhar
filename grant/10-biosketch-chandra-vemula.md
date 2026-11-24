@@ -23,9 +23,9 @@ EDUCATION/TRAINING
 
 ## A. Personal statement
 
-I am a postdoctoral scientist at Children’s Hospital Los Angeles studying how the PAX3-FOXO1 fusion drives fusion-positive rhabdomyosarcoma. With the Park laboratory I contributed to the study showing that PAX3-FOXO1 increases NOS1 and nitric oxide, suppresses TGFβ signaling, and reduces cell–extracellular-matrix interaction (*J Cell Biol*, 2025). I also contributed to work on how extracellular-matrix topography drives phenotype switching in neuroblastoma (*Adv Mater*, 2025). I am first author on the AACR abstracts that reported the rhabdomyosarcoma matrix findings (2024) and WEE1 dependence in three-dimensional invasion (2026).
+I am a postdoctoral scientist at Children’s Hospital Los Angeles studying how the PAX3-FOXO1 fusion drives fusion-positive rhabdomyosarcoma (FPRMS). With the Park laboratory I contributed to work showing that PAX3-FOXO1 increases NOS1 and nitric oxide, suppresses TGFβ signaling, and reduces cell–extracellular-matrix interaction (*J Cell Biol*, 2025). I also contributed to studies of how extracellular-matrix topography drives phenotype switching in neuroblastoma (*Adv Mater*, 2025). I am first author on AACR abstracts reporting rhabdomyosarcoma matrix findings (2024) and PAX3-FOXO1–linked WEE1 dependence and cell-cycle control in FPRMS (2026).
 
-This Rhabdo Coalition proposal tests whether WEE1 dependence persists in tissue-like native muscle ECM. I will establish and benchmark decellularized skeletal muscle scaffolds reseeded with FPRMS cells, map cell-cycle and replication-stress states across alveolar architecture, and test WEE1 inhibition in that model. Dr. JinSeok Park, Assistant Professor of Pediatrics, is the mentor and will oversee design and interpretation. The award would provide dedicated effort and the dECM- and imaging-specific resources for this work. **[Add one sentence on any technique, award, or prior fellowship that is true and relevant. Do not add one that is not.]**
+This Rhabdo Coalition proposal asks whether WEE1 dependence persists—and where it persists—when FPRMS cells are organized in tissue-like native muscle extracellular matrix. In conventional culture we found that FPRMS depends on WEE1, a G2/M checkpoint kinase downstream of PAX3-FOXO1, but dish-based responses can overestimate efficacy once alveolar architecture and spatial molecular heterogeneity are present. Aim 1 will establish and benchmark optically accessible decellularized skeletal muscle (dECM) scaffolds reseeded with FPRMS cells against patient/PDX histology and standard 2D, collagen, and Matrigel cultures, using FNRMS as a subtype control, and will test whether the model recapitulates reduced peripheral PAX3-FOXO1 at ECM contact. Aim 2 will map cell-cycle and replication-stress states across alveolar-like niches and test WEE1 inhibition, including Debio-0123, to determine whether residual cells occupy defined architectural compartments. Dr. JinSeok Park, Assistant Professor of Pediatrics, is the mentor and will oversee design and interpretation. The award would provide dedicated effort and the dECM- and imaging-specific resources required for this work. **[Add one sentence on any technique, award, or prior fellowship that is true and relevant. Do not add one that is not.]**
 
 ## B. Positions, scientific appointments, and honors
 
@@ -59,15 +59,15 @@ Influence: This work advances pediatric solid-tumor mechanobiology by linking na
 
 My role: At Children’s Hospital Los Angeles, I contributed to matrix-facing experimental work and imaging analyses in this study (Chronopoulos, Vemula et al., 2025), building expertise in ECM systems that I continue to apply in pediatric sarcoma research.
 
-### 3. PAX3-FOXO1, WEE1, and collective invasion in FPRMS (~1,150 characters)
+### 3. PAX3-FOXO1, WEE1, and cell-cycle control in FPRMS (~1,200 characters)
 
-Historical background: Fusion-positive rhabdomyosarcoma (FPRMS) invades collectively, but how PAX3-FOXO1 coordinates cell-cycle control among leader and follower cells during invasion remained poorly understood. WEE1 is a G2/M checkpoint kinase and a candidate vulnerability downstream of the fusion.
+Historical background: Fusion-positive rhabdomyosarcoma (FPRMS) depends on PAX3-FOXO1–driven proliferation, but how the fusion controls cell-cycle checkpoints—and whether WEE1 dependence persists in tissue-like architecture—remained incompletely defined. WEE1 is a G2/M checkpoint kinase and a candidate vulnerability downstream of the fusion.
 
-Central findings: In a spheroid invasion model, follower cells behind the invasive front show higher PAX3-FOXO1, higher proliferation, and higher WEE1 activity. PAX3-FOXO1 knockdown is negatively enriched for G1/S and DNA-replication programs, and WEE1 inhibition slows growth and invasion (Vemula and Park, 2026).
+Central findings: PAX3-FOXO1 knockdown reduces FPRMS growth, alters G1/S and DNA-replication programs, and induces S-phase arrest with lower CDK phosphorylation; chromatin reanalysis places WEE1 downstream of PAX3-FOXO1, and WEE1 knockout phenocopies these cell-cycle defects (Vemula and Park, 2026). Related work also links spatial ECM contact to reduced peripheral PAX3-FOXO1 in FPRMS tumors.
 
-Influence: These findings nominate WEE1 as a functionally relevant node in FPRMS collective invasion and support further testing of whether WEE1 dependence persists in more tissue-like ECM contexts before clinical prioritization.
+Influence: These findings nominate WEE1 as a functionally relevant effector of PAX3-FOXO1 and motivate testing whether, and where, WEE1 dependence is preserved in optically accessible native-muscle dECM models before clinical prioritization.
 
-My role: I am first author on this work. I designed and performed the invasion, cell-cycle, and WEE1-inhibition experiments and analyzed the associated transcriptomic enrichment results reported in the AACR 2026 abstract (Vemula and Park, 2026). A full manuscript from this project is under development.
+My role: I am first author on this work. I designed and performed the cell-cycle, knockdown/knockout, and WEE1-inhibition experiments and analyzed the associated transcriptomic enrichment results reported in the AACR 2026 abstract (Vemula and Park, 2026). A full manuscript from this project is under development.
 
 ## D. Scholastic performance
 
