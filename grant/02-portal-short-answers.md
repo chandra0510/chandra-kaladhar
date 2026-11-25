@@ -4,9 +4,9 @@ Paste the paragraphs. Do not paste the headings or the word counts.
 
 ## Rhabdomyosarcoma relevance
 
-Limit: 150 words.
+Limit: 150 words. (130 words below; aligned to 2_Application_JP dECM/WEE1 aims.)
 
-This project studies only fusion-positive rhabdomyosarcoma, the subtype driven by PAX3-FOXO1 and the group of children most likely to relapse with metastatic disease. The question is whether that fusion promotes growth and spread through one heparan sulfate proteoglycan, SPOCK3. SPOCK3 is the molecular target. The mechanism under test is capture of the growth factor FGF2, activation of ERK, and cortical stiffness that helps cells pass through narrow spaces during extravasation. The models are fusion-positive cells already in use in this laboratory, including cells in which PAX3-FOXO1 has been knocked down. Fusion-negative cells are a comparison. The tool compound is surfen, an antagonist of heparan sulfate. The result this award is built to deliver is whether blocking SPOCK3, or heparan sulfate more broadly, is a credible way to slow growth and metastatic spread in this cancer.
+This project focuses on fusion-positive rhabdomyosarcoma (FPRMS), the PAX3-FOXO1–driven subtype with alveolar architecture and poorer outcomes. No therapy directly targets the fusion. We ask whether WEE1, a cell-cycle vulnerability downstream of PAX3-FOXO1, remains essential—and where it remains essential—when FPRMS cells grow in tissue-like native muscle extracellular matrix rather than on plastic or isotropic gels. Aim 1 establishes and benchmarks optically accessible decellularized skeletal muscle (dECM) scaffolds against patient/PDX histology and standard cultures, using FNRMS as a subtype control. Aim 2 maps cell-cycle and replication-stress states across alveolar-like niches and tests WEE1 inhibition to determine whether residual cells occupy defined architectural compartments. The deliverable is a shareable FPRMS tissue model and a clearer answer for families and foundations on whether WEE1 blockade should be prioritized or combined based on tissue-relevant evidence.
 
 ## Data, resource sharing, and collaboration
 
